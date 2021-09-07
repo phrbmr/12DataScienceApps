@@ -1,4 +1,4 @@
-# 12DataScienceApps
+# 12 Data Science Apps
 Build 12 Data Science Apps with Python and Streamlit from @DataProfessor and @freeCodeCamp
 
 ## Table of contents
